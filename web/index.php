@@ -1,3 +1,6 @@
-<?php echo 'hello frie';?>
+<?php
 
- 
+echo 'hello friend!';
+
+?>
+
